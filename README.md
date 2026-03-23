@@ -1,4 +1,4 @@
-# 68 Ling Yatra - Solapur Website
+# 68 Ling Yatra Information and Navigation Website
 
 🔗 **Live Website:** https://68lingproj.tiiny.site/
 
