@@ -301,7 +301,7 @@ Unlike common college projects, this system addresses real-world pilgrimage mana
 
 # 👨‍💻 Developer
 
-Developed as a Final Year Major Project for academic and social impact purposes.
+Developed it for the interview purpose project showcase my skills
 
 ---
 
